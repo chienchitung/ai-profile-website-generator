@@ -1,0 +1,5 @@
+{
+  "name": "AI LinkedIn Profile Website Generator",
+  "description": "An AI-powered tool that automatically generates a professional personal website from your LinkedIn profile data. Customize templates, layouts, and connect to various LLMs to create a unique online presence in one click.",
+  "requestFramePermissions": []
+}
